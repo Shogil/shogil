@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="background:#414a50; padding: 25px 0;">
+<div align="left" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/ShoGilBabu">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
     </a>
