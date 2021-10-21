@@ -21,7 +21,5 @@ Here are some ideas to get you started:
      <a href="https://www.linkedin.com/in/shogil/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
-     <a href="https://www.linkedin.com/in/shogil/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/instagram.svg" alt="Connect on Instagram">
-    </a>
+     
 </div>
