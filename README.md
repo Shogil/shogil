@@ -5,7 +5,7 @@
 <p align="center">
   
   <samp>
-   I’m Shogil, Research Assistant and Technical mentor at Amrita Center for Cybersecurity Systems and networks. Professional web and android developer with a strong working background in development and security industry. Proficient in developing Websites and  programming languages (C, CPP, Python and JavaScript). Mainly focused on creating frontend developer and security.
+   I’m Shogil, Research Assistant and Technical mentor at Amrita Center for Cybersecurity Systems and networks. Professional web and android developer with a strong working background in development and security industry. Proficient in developing Websites and  programming languages (C, CPP, Python and JavaScript). Mainly focused on frontend developer and security.
   </samp>
 </p>
 <h3 align="center">Connect with me:</h3>
