@@ -5,7 +5,7 @@
 <p align="center">
   
   <samp>
-   I’m Shogil, Research Assistant and Technical mentor at Amrita Center for Cybersecurity Systems and networks. Professional web and application developer with a strong working background in development and security industry. Proficient in developing Websites, developing application and  programming languages (C, CPP, Python and JavaScript). Mainly focused on frontend developer and security.
+  I’m currently learning Flutter.
   </samp>
 </p>
 <h3 align="center">Connect with me:</h3>
