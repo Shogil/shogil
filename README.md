@@ -4,9 +4,9 @@
 
 <p align="center">
   
-  <samp>
+  <samp><b>
   I’m currently learning Flutter.
-  </samp>
+  </b></samp>
 </p>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
