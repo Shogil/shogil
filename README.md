@@ -2,12 +2,12 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 
-<h5 align="center">
+<h4 align="center">
   
   <samp>
   I’m currently learning Flutter.
   </samp>
-</h5>
+</h4>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
