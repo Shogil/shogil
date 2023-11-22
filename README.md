@@ -26,7 +26,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
   <a href="https://flutter.dev/" target="_blank"> 
