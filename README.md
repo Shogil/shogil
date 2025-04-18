@@ -5,7 +5,7 @@
 <h2 align="center">
   
  
-  I’m currently learning Flutter.
+  Currently learning Cybersecurity.
  
 </h2>
 <h3 align="center">Connect with me:</h3>
